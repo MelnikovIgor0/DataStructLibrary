@@ -10,7 +10,6 @@ F:\documents\c#\DataStructLibrary\DataStructLibrary\obj\Debug\netstandard2.0\Dat
 F:\documents\c#\rep_data_structures\DataStructLibrary\bin\Debug\netstandard2.0\DataStructLibrary.deps.json
 F:\documents\c#\rep_data_structures\DataStructLibrary\bin\Debug\netstandard2.0\DataStructLibrary.dll
 F:\documents\c#\rep_data_structures\DataStructLibrary\bin\Debug\netstandard2.0\DataStructLibrary.pdb
-F:\documents\c#\rep_data_structures\DataStructLibrary\obj\Debug\netstandard2.0\DataStructLibrary.csprojAssemblyReference.cache
 F:\documents\c#\rep_data_structures\DataStructLibrary\obj\Debug\netstandard2.0\DataStructLibrary.GeneratedMSBuildEditorConfig.editorconfig
 F:\documents\c#\rep_data_structures\DataStructLibrary\obj\Debug\netstandard2.0\DataStructLibrary.AssemblyInfoInputs.cache
 F:\documents\c#\rep_data_structures\DataStructLibrary\obj\Debug\netstandard2.0\DataStructLibrary.AssemblyInfo.cs
